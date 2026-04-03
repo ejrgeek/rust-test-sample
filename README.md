@@ -7,5 +7,5 @@ I know, for working with money it's better to use `u64`.
 
 ## How To Run
 ```bash
-cargo test
+cargo test --test store_test
 ```
